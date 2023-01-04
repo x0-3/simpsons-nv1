@@ -1,6 +1,6 @@
 # simpsons-nv1
  
-Site internet static des simpsons sans media queries en HTML et CSS.  
+Site internet statique des Simpsons sans media queries en HTML et CSS. 
   
 
 <br/>  
